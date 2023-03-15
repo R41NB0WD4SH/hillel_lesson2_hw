@@ -35,6 +35,7 @@ namespace Hillel_Lesson2_HW
             
             Console.ReadKey();
             Console.ReadKey();
+            Console.ReadKey();
 
 
 
