@@ -13,8 +13,6 @@ namespace Hillel_Lesson2_HW
         static void Main(string[] args)
         {
 
-
-
             Console.WriteLine("Create a dog and a cat");
             Console.WriteLine();
 
@@ -34,12 +32,6 @@ namespace Hillel_Lesson2_HW
             
             
             Console.ReadKey();
-            Console.ReadKey();
-            Console.ReadKey();
-
-
-
-
 
 
         }

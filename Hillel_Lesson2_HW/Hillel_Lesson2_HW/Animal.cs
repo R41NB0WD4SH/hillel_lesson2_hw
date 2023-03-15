@@ -6,7 +6,6 @@ public class Animal
     protected string _typeOfAnimal;
     protected string _name;
     protected int _age;
-    protected int _oxygenLevel;
 
     internal string TypeOfAnimal
     {
@@ -36,18 +35,6 @@ public class Animal
             {
                 _age = 0;
             }
-        }
-    }
-
-    public int OxygenLevel
-    {
-        get
-        {
-            return _oxygenLevel;
-        }
-        set
-        {
-            _oxygenLevel = value;
         }
     }
 
